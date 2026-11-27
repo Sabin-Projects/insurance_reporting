@@ -1,0 +1,725 @@
+lob_code,lob_name,group_code,group_name,accident_year,development_year,development_lag,incurred_loss,cum_paid_loss,bulk_ibnr_reserve,earned_prem_direct,earned_prem_ceded,earned_prem_net,single_entity_flag,posted_reserves_2007
+B,Private Passenger Auto Liability,7676,Pennsylvania Mfg Asn Ins Co,1999,2002,4,1024,-246,980,3697,2541,1156,0,1343.123
+B,Private Passenger Auto Liability,7676,Pennsylvania Mfg Asn Ins Co,1999,2003,5,1077,-49,1007,3697,2541,1156,0,1343.123
+B,Private Passenger Auto Liability,7676,Pennsylvania Mfg Asn Ins Co,1999,2004,6,1147,-33,996,3697,2541,1156,0,1343.123
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2000,2004,5,-182,-188,0,5731,5143,588,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2000,2005,6,-164,-164,0,5731,5143,588,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2000,2006,7,-201,-201,0,5731,5143,588,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2000,2007,8,-212,-212,0,5731,5143,588,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2000,2008,9,-205,-205,0,5731,5143,588,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2000,2009,10,-205,-205,0,5731,5143,588,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2002,2,-11,-22,-5,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2004,4,-1163,-1163,0,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2005,5,-1121,-1121,0,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2006,6,-1140,-1140,0,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2007,7,-1469,-1469,0,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2008,8,-1467,-1467,0,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2009,9,-1467,-1467,0,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2001,2010,10,-1172,-1174,2,13686,12654,1032,1,10.232
+B,Private Passenger Auto Liability,11150,First Amer Ins Co,2002,2003,2,-449,-371,-56,2602,2518,84,1,10.232
+B,Private Passenger Auto Liability,29378,Old American Cty Mut Fire Ins Co,2002,2002,1,665,-719,510,165189,165106,83,1,295.646
+B,Private Passenger Auto Liability,29378,Old American Cty Mut Fire Ins Co,2002,2003,2,138,-316,249,165189,165106,83,1,295.646
+B,Private Passenger Auto Liability,32743,Alliance Mut Ins Co,2002,2002,1,131,-45,131,845,409,436,1,521.646
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2002,2002,1,217,-104,114,238,117,120,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2003,2003,1,-10,-47,-49,105,52,53,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2003,2004,2,-25,-36,7,105,52,53,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2003,2005,3,62,-34,101,105,52,53,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2006,1,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2007,2,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2008,3,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2009,4,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2010,5,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2011,6,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2012,7,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2013,8,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2014,9,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,34525,First American Specilaty Ins Co,2006,2015,10,-222,-222,0,0,0,0,1,-9.167
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,1998,1,-1,-1,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,1999,2,-2,-2,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2000,3,-4,-4,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2001,4,-4,-4,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2002,5,-4,-4,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2003,6,-5,-5,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2004,7,-5,-5,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2005,8,-6,-6,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2006,9,-6,-6,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1998,2007,10,-6,-6,0,1618,1618,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2001,3,-1,-1,0,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2002,4,-1,-1,0,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2003,5,-1,-1,0,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2004,6,0,-1,1,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2005,7,-2,-2,0,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2006,8,-2,-2,0,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2007,9,-1,-2,1,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,1999,2008,10,-2,-2,0,1506,1506,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2001,2,-1,-1,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2002,3,-1,-1,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2003,4,-2,-2,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2004,5,0,-2,2,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2005,6,-2,-2,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2006,7,-2,-2,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2007,8,-2,-2,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2008,9,-2,-2,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42552,Nova Cas Co,2000,2009,10,-2,-2,0,1459,1459,0,1,1756.629
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2004,1,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2005,2,-3,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2006,3,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2007,4,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2008,5,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2009,6,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2010,7,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2011,8,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2012,9,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2004,2013,10,-4,-4,0,810,808,2,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2006,1,-1384,-1483,0,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2007,2,-1170,-1482,187,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2008,3,-1270,-1325,12,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2009,4,-1148,-1272,37,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2010,5,-1149,-1224,25,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2011,6,-1192,-1204,0,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2012,7,-1203,-1203,0,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2013,8,-1203,-1203,0,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2014,9,-1203,-1203,0,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2006,2015,10,-1203,-1203,0,17260,16822,438,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2007,1,-226,-534,226,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2008,2,-318,-437,95,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2009,3,-363,-400,23,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2010,4,-343,-386,11,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2011,5,-354,-357,0,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2012,6,-356,-356,0,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2013,7,-356,-356,0,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2014,8,-356,-356,0,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2015,9,-356,-356,0,8502,8327,175,1,338.814
+B,Private Passenger Auto Liability,42846,Atlantic Cas Ins Co,2007,2016,10,-356,-356,0,8502,8327,175,1,338.814
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2000,1,-2,-2,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2001,2,-4,-4,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2002,3,-4,-4,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2003,4,-4,-4,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2004,5,-4,-4,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2005,6,-5,-5,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2006,7,-5,-5,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2007,8,-6,-6,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2008,9,-6,-6,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2000,2009,10,-6,-6,0,120,23,97,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2003,2,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2004,3,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2005,4,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2006,5,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2007,6,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2008,7,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2009,8,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2010,9,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,460,Buckeye Ins Grp,2002,2011,10,-8,-8,0,146,40,106,0,1.463
+C,Commercial Auto Liability,2003,United Services Automobile Asn Grp,2000,2000,1,55,-9,36,214,16,198,0,300.171
+C,Commercial Auto Liability,2003,United Services Automobile Asn Grp,2001,2001,1,65,-10,44,339,23,316,0,300.171
+C,Commercial Auto Liability,2003,United Services Automobile Asn Grp,2002,2002,1,109,-27,80,412,35,377,0,300.171
+C,Commercial Auto Liability,2003,United Services Automobile Asn Grp,2003,2003,1,160,-13,98,407,1,406,0,300.171
+C,Commercial Auto Liability,2003,United Services Automobile Asn Grp,2006,2006,1,88,-23,67,359,0,359,0,300.171
+C,Commercial Auto Liability,2003,United Services Automobile Asn Grp,2007,2007,1,42,-49,54,230,0,229,0,300.171
+C,Commercial Auto Liability,10019,Overseas Partners Us Reins Co,2006,2013,8,69,-3,62,-4,-3,-1,1,661.927
+C,Commercial Auto Liability,10048,Hyundai Marine & Fire Ins Co Ltd,2001,2001,1,215,-2,193,654,362,292,1,1183.77
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2003,4,277,-90,0,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2004,5,-787,-970,183,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2005,6,-423,-440,0,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2006,7,-355,-443,88,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2007,8,-352,-449,97,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2008,9,-577,-449,-128,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2000,2009,10,-355,-449,96,9969,9187,782,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2004,4,-605,-641,13,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2005,5,-801,-838,7,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2006,6,-844,-852,3,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2007,7,-1620,-1681,82,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2008,8,-1981,-1636,-319,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2009,9,-1691,-1629,-26,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2001,2010,10,-897,-915,18,17874,16407,1467,1,31349.81
+C,Commercial Auto Liability,11150,First Amer Ins Co,2006,2007,2,4799,-220,4080,78283,71120,7163,1,31349.81
+C,Commercial Auto Liability,13420,Badger Mut Ins Co,1999,1999,1,28,-1,23,83,12,71,1,0.0
+C,Commercial Auto Liability,13420,Badger Mut Ins Co,1999,2002,4,21,-1,2,83,12,71,1,0.0
+C,Commercial Auto Liability,18791,Virginia Mut Ins Co,2002,2002,1,500,-73,112,3320,2439,881,1,4386.76
+C,Commercial Auto Liability,18791,Virginia Mut Ins Co,2006,2007,2,1739,-1650,323,6112,4544,1568,1,4386.76
+C,Commercial Auto Liability,18791,Virginia Mut Ins Co,2006,2008,3,1312,-108,200,6112,4544,1568,1,4386.76
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2000,1,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2001,2,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2002,3,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2003,4,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2004,5,-23,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2005,6,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2006,7,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2007,8,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2008,9,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,29378,Old American Cty Mut Fire Ins Co,2000,2009,10,-5,-5,0,42490,42490,0,1,1631.517
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,1998,1998,1,46,-24,38,750,529,221,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2000,2000,1,-18,-61,38,745,568,177,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2000,2001,2,-21,-39,15,745,568,177,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2000,2002,3,24,-6,28,745,568,177,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2001,2001,1,27,-21,37,876,558,318,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2001,2002,2,56,-7,51,876,558,318,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2001,2003,3,32,-4,28,876,558,318,1,182.893
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,2004,2004,1,24,-4,31,1402,788,614,1,182.893
+C,Commercial Auto Liability,37206,Contractors Bonding & Ins Co,2002,2002,1,1566,-490,1091,5537,3256,2281,1,4165.844
+C,Commercial Auto Liability,37206,Contractors Bonding & Ins Co,2003,2003,1,1207,-267,1223,4847,2904,1943,1,4165.844
+C,Commercial Auto Liability,37206,Contractors Bonding & Ins Co,2003,2004,2,1171,-91,1013,4847,2904,1943,1,4165.844
+C,Commercial Auto Liability,37206,Contractors Bonding & Ins Co,2003,2005,3,910,-221,401,4847,2904,1943,1,4165.844
+C,Commercial Auto Liability,37206,Contractors Bonding & Ins Co,2003,2006,4,772,-16,233,4847,2904,1943,1,4165.844
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,1999,2,0,-1,1,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2000,3,-2,-2,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2001,4,-1,-1,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2002,5,-1,-1,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2003,6,-2,-2,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2004,7,-3,-3,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2005,8,-3,-3,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2006,9,-3,-3,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42552,Nova Cas Co,1998,2007,10,-4,-4,0,720,720,0,1,1141.118
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,1998,1998,1,0,-1,1,7016,7014,2,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,1998,1999,2,-1,-1,0,7016,7014,2,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,1998,2000,3,-1,-1,0,7016,7014,2,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,1998,2001,4,10,-1,0,7016,7014,2,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,1998,2002,5,-7,-7,0,7016,7014,2,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,1999,2002,4,-10,-10,0,7266,7195,71,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2003,1,-123,-152,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2004,2,-96,-102,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2005,3,-76,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2006,4,-69,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2007,5,-81,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2008,6,-83,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2009,7,-83,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2010,8,-83,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2011,9,-83,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2003,2012,10,-83,-83,0,11514,11513,1,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2004,1,-509,-529,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2005,2,-465,-492,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2006,3,-462,-492,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2007,4,-443,-492,1,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2008,5,-473,-492,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2009,6,-473,-492,4,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2010,7,-486,-492,1,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2011,8,-487,-492,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2012,9,-489,-492,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2004,2013,10,-492,-492,0,12721,12753,-32,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2006,1,-1306,-1361,0,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2007,2,-1189,-1360,149,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2008,3,-1306,-1360,32,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2009,4,-1247,-1360,47,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2010,5,-1298,-1360,43,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2011,6,-1351,-1360,0,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2012,7,-1359,-1360,0,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2013,8,-1360,-1360,0,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2014,9,-1360,-1360,0,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2006,2015,10,-1360,-1360,0,13316,13297,19,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2007,1,-940,-1192,235,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2008,2,-1058,-1192,116,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2009,3,-1035,-1192,122,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2010,4,-1102,-1192,57,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2011,5,-1161,-1192,24,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2012,6,-1192,-1192,0,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2013,7,-1192,-1192,0,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2014,8,-1192,-1192,0,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2015,9,-1192,-1192,0,12429,12478,-49,1,1033.388
+C,Commercial Auto Liability,42846,Atlantic Cas Ins Co,2007,2016,10,-1192,-1192,0,12429,12478,-49,1,1033.388
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2000,1,-621,-635,9,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2001,2,-629,-634,2,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2002,3,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2003,4,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2004,5,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2005,6,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2006,7,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2007,8,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2008,9,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,86,Allstate Ins Co Grp,2000,2009,10,-633,-633,0,320,40,280,0,135699.214
+D,Workers' Compensation,2623,Canal Ins Co Grp,2003,2003,1,5063,-799,3597,26955,21594,5361,0,19661.293
+D,Workers' Compensation,11460,Homestead Ins Co,1998,2005,8,-122,-2310,315,6921,5659,1262,1,3316.281
+D,Workers' Compensation,11460,Homestead Ins Co,1998,2006,9,-55,-2096,211,6921,5659,1262,1,3316.281
+D,Workers' Compensation,11460,Homestead Ins Co,1998,2007,10,-37,-1891,197,6921,5659,1262,1,3316.281
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,1999,2008,10,0,-1,1,28,0,28,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2000,2008,9,-1,-5,1,28,0,28,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2000,2009,10,-1,-5,1,28,0,28,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2001,2008,8,-3,-13,3,926,1061,-135,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2001,2009,9,-5,-13,3,926,1061,-135,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2001,2010,10,-5,-12,4,926,1061,-135,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2002,2008,7,-4,-17,6,25,0,25,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2002,2009,8,-6,-17,5,25,0,25,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2002,2010,9,-8,-16,5,25,0,25,1,1482.774
+D,Workers' Compensation,13943,Fitchburg Mut Ins Co,2002,2011,10,-10,-16,4,25,0,25,1,1482.774
+D,Workers' Compensation,13994,Fremont Mut Ins Co,1999,1999,1,15,-1,9,326,282,44,1,1788.68
+D,Workers' Compensation,14320,Distributors Ins Co,1998,2003,6,107,-106,212,572,0,572,1,2861.405
+D,Workers' Compensation,14320,Distributors Ins Co,1998,2004,7,60,-103,161,572,0,572,1,2861.405
+D,Workers' Compensation,14320,Distributors Ins Co,1998,2005,8,-3,-100,81,572,0,572,1,2861.405
+D,Workers' Compensation,15334,Utilities Mut Ins Co,2000,2009,10,1127,-3151,1433,5627,7610,-1983,1,45800.573
+D,Workers' Compensation,21172,Vanliner Ins Co,1999,1999,1,13485,-625,7392,21837,772,21065,1,140159.953
+D,Workers' Compensation,27626,Firstcomp Ins Co,2003,2003,1,10358,-956,5597,40553,15639,24914,1,117306.24
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,1999,2001,3,4,-1,0,48,8,40,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,1999,2002,4,10,-1,0,48,8,40,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2000,1,-3,-3,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2001,2,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2002,3,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2003,4,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2004,5,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2005,6,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2006,7,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2007,8,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2008,9,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,31780,Maple Valley Mut Ins Co,2000,2009,10,-5,-5,0,56,54,2,1,5.324
+D,Workers' Compensation,32875,British Amer Ins Co,1999,2003,5,280,-1,281,1593,340,1253,1,7261.023
+D,Workers' Compensation,32875,British Amer Ins Co,1999,2004,6,280,-1,281,1593,340,1253,1,7261.023
+D,Workers' Compensation,32875,British Amer Ins Co,1999,2005,7,281,-1,281,1593,340,1253,1,7261.023
+D,Workers' Compensation,32875,British Amer Ins Co,1999,2006,8,279,-1,280,1593,340,1253,1,7261.023
+D,Workers' Compensation,32875,British Amer Ins Co,1999,2007,9,280,-1,281,1593,340,1253,1,7261.023
+D,Workers' Compensation,32875,British Amer Ins Co,1999,2008,10,281,-1,282,1593,340,1253,1,7261.023
+D,Workers' Compensation,33111,MHA Ins Co,2005,2013,9,505,-368,360,6888,6888,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2005,2014,10,-1063,-1391,90,6888,6888,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2006,2013,8,391,-1057,602,10967,10967,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2006,2014,9,-1906,-2646,430,10967,10967,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2006,2015,10,-1996,-2490,349,10967,10967,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2007,2013,7,615,-835,1087,14173,14173,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2007,2014,8,722,-312,769,14173,14173,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2007,2015,9,648,-267,683,14173,14173,0,1,0.0
+D,Workers' Compensation,33111,MHA Ins Co,2007,2016,10,479,-243,516,14173,14173,0,1,0.0
+D,Workers' Compensation,35408,Sirius Amer Ins Co,2006,2011,6,-739,-304,28,50,3,47,1,34367.875
+D,Workers' Compensation,35408,Sirius Amer Ins Co,2006,2012,7,222,-271,497,50,3,47,1,34367.875
+D,Workers' Compensation,35408,Sirius Amer Ins Co,2006,2013,8,-257,-271,0,50,3,47,1,34367.875
+D,Workers' Compensation,35408,Sirius Amer Ins Co,2006,2014,9,-251,-271,0,50,3,47,1,34367.875
+D,Workers' Compensation,35408,Sirius Amer Ins Co,2006,2015,10,-260,-271,0,50,3,47,1,34367.875
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2004,1,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2005,2,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2006,3,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2007,4,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2008,5,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2009,6,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2010,7,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2011,8,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2012,9,-193,-193,0,-456,0,-456,1,43.46
+D,Workers' Compensation,38997,Nissan Fire & Marine Ins Co Us Br,2004,2013,10,-193,-193,0,-456,0,-456,1,43.46
+F2,Medical Malpractice - Claims Made,1406,Nationwide Grp,1998,1998,1,1414,-334,92,10338,5496,4842,0,11446.205
+F2,Medical Malpractice - Claims Made,35904,Health Care Ind Inc,2007,2008,2,44001,-4506,35200,46430,6800,39630,1,23796.378
+F2,Medical Malpractice - Claims Made,35904,Health Care Ind Inc,2007,2009,3,30877,-2915,17166,46430,6800,39630,1,23796.378
+F2,Medical Malpractice - Claims Made,36234,Preferred Professional Ins Co,2007,2016,10,-315,-315,0,6263,6262,1,1,96690.797
+F2,Medical Malpractice - Claims Made,41467,Physicians Recip Insurers,2004,2006,3,109694,-49401,18171,151420,97975,53444,1,519515.847
+F2,Medical Malpractice - Claims Made,41467,Physicians Recip Insurers,2004,2007,4,116744,-29355,-30767,151420,97975,53444,1,519515.847
+H1,Other Liability - Occurrence,460,Buckeye Ins Grp,2005,2005,1,406,-69,394,1643,848,795,0,616.76
+H1,Other Liability - Occurrence,460,Buckeye Ins Grp,2007,2007,1,436,-18,395,1851,1122,729,0,616.76
+H1,Other Liability - Occurrence,460,Buckeye Ins Grp,2007,2008,2,238,-4,223,1851,1122,729,0,616.76
+H1,Other Liability - Occurrence,558,Auto Club Ins Assn,2001,2003,3,38,-4,0,3720,3535,185,0,1620.853
+H1,Other Liability - Occurrence,558,Auto Club Ins Assn,2004,2004,1,1044,-44,1114,3368,1837,1531,0,1620.853
+H1,Other Liability - Occurrence,2259,Occidental Fire & Cas Co Grp,2003,2003,1,448,-16,390,1958,1160,798,0,4538.913
+H1,Other Liability - Occurrence,2259,Occidental Fire & Cas Co Grp,2003,2004,2,54,-9,51,1958,1160,798,0,4538.913
+H1,Other Liability - Occurrence,2623,Canal Ins Co Grp,2003,2003,1,10467,-492,8995,32347,2307,30040,0,44721.857
+H1,Other Liability - Occurrence,3492,Florists Mut Ins Grp,2001,2003,3,142,-20,10,3133,2997,136,0,629.516
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1998,2001,4,1547,-343,1683,11435,3842,7593,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1998,2002,5,755,-222,695,11435,3842,7593,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1998,2003,6,1135,-151,1097,11435,3842,7593,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1998,2004,7,2217,-4,861,11435,3842,7593,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1999,2001,3,479,-1550,1693,8153,4014,4139,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1999,2002,4,-82,-1373,206,8153,4014,4139,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1999,2003,5,659,-563,192,8153,4014,4139,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,1999,2004,6,2055,-176,585,8153,4014,4139,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2001,2,-645,-2740,1824,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2002,3,-1539,-2580,568,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2003,4,-24,-2283,334,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2004,5,123,-2132,902,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2005,6,167,-680,535,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2006,7,-46,-577,477,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2007,8,333,-408,526,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2008,9,-1232,-1791,459,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,5940,American Contractors Ins Grp,2000,2009,10,-1417,-1791,374,3217,4738,-1521,0,71156.468
+H1,Other Liability - Occurrence,8079,Columbia Ins Grp,2002,2002,1,2035,-177,1693,10313,5753,4560,0,4048.374
+H1,Other Liability - Occurrence,8427,Farm Bureau Grp,2003,2003,1,95,-12,80,2003,1818,185,0,124.831
+H1,Other Liability - Occurrence,10083,National Catholic RRG,2003,2004,2,5060,-144,2320,13206,7119,6087,1,44764.381
+H1,Other Liability - Occurrence,10100,Proformance Ins Co (The),1999,2000,2,1,-4,1,1058,1039,19,1,9591.684
+H1,Other Liability - Occurrence,10100,Proformance Ins Co (The),1999,2001,3,10,-4,0,1058,1039,19,1,9591.684
+H1,Other Liability - Occurrence,10103,American Agricultural Ins Co,2000,2000,1,17681,-89,10120,23359,770,22589,1,39451.73
+H1,Other Liability - Occurrence,10103,American Agricultural Ins Co,2001,2001,1,20686,-186,11548,20942,3520,17422,1,39451.73
+H1,Other Liability - Occurrence,10103,American Agricultural Ins Co,2002,2002,1,18663,-107,11401,25514,616,24898,1,39451.73
+H1,Other Liability - Occurrence,10103,American Agricultural Ins Co,2003,2003,1,26163,-97,12901,29115,2228,26887,1,39451.73
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2003,1,202,-11,203,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2004,2,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2005,3,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2006,4,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2007,5,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2008,6,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2009,7,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2010,8,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2011,9,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10308,Antilles Ins Co,2003,2012,10,-9,-9,0,238,164,74,1,283.543
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2005,3,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2006,4,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2007,5,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2008,6,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2009,7,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2010,8,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2011,9,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10323,Farmers Mut Ins Co,2003,2012,10,0,-27,0,153,14,139,1,51.591
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2002,4,-2,-2,0,49,16,33,1,89.237
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2003,5,-2,-2,0,49,16,33,1,89.237
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2004,6,-2,-2,0,49,16,33,1,89.237
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2005,7,1,-2,3,49,16,33,1,89.237
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2006,8,-2,-2,0,49,16,33,1,89.237
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2007,9,-2,-2,0,49,16,33,1,89.237
+H1,Other Liability - Occurrence,10380,Leatherstocking Coop Ins  Co,1999,2008,10,-2,-2,0,49,16,33,1,89.237
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2001,2006,6,-1649,-1649,0,1362,849,513,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2003,2007,5,11858,-5102,12422,49424,31737,17687,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2003,2008,6,10419,-678,7775,49424,31737,17687,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2004,2007,4,6431,-8621,10368,124642,90491,34152,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2004,2008,5,8851,-5316,9432,124642,90491,34152,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2004,2009,6,6737,-799,5080,124642,90491,34152,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2005,2007,3,6631,-8372,11172,96264,96773,-509,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2005,2008,4,7009,-5140,7841,96264,96773,-509,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2005,2009,5,6032,-2173,4289,96264,96773,-509,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2005,2010,6,7078,-470,4560,96264,96773,-509,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2006,2007,2,9084,-6604,12647,135492,120292,15199,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2006,2008,3,9292,-4534,10114,135492,120292,15199,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2006,2009,4,7205,-2116,5142,135492,120292,15199,1,95728.319
+H1,Other Liability - Occurrence,11150,First Amer Ins Co,2006,2010,5,7528,-1438,5939,135492,120292,15199,1,95728.319
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2002,2006,5,-1,-1,0,358,157,201,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2002,2007,6,-1,-1,0,358,157,201,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2002,2008,7,-1,-1,0,358,157,201,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2006,2007,2,-9,-9,0,1773,1758,15,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2006,2008,3,-10,-9,0,1773,1758,15,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2006,2009,4,-9,-9,0,1773,1758,15,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2006,2010,5,-9,-9,0,1773,1758,15,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2006,2011,6,-9,-9,0,1773,1758,15,1,9137.413
+H1,Other Liability - Occurrence,11231,Generali Us Branch,2006,2012,7,-9,-9,0,1773,1758,15,1,9137.413
+H1,Other Liability - Occurrence,11460,Homestead Ins Co,1998,1998,1,1162,-114,1188,4379,2531,1848,1,490.635
+H1,Other Liability - Occurrence,13528,Brotherhood Mut Ins Co,2006,2013,8,-263,-263,0,5608,5283,325,1,522.102
+H1,Other Liability - Occurrence,13528,Brotherhood Mut Ins Co,2006,2014,9,-263,-263,0,5608,5283,325,1,522.102
+H1,Other Liability - Occurrence,13528,Brotherhood Mut Ins Co,2006,2015,10,-263,-263,0,5608,5283,325,1,522.102
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2004,4,-10,-13,1,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2005,5,-6,-13,0,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2006,6,-10,-13,3,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2007,7,-13,-13,0,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2008,8,-13,-13,0,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2009,9,-13,-13,0,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13668,Commercial Mut Ins Co,2001,2010,10,-13,-13,0,122,122,0,1,415.188
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2000,2006,7,-54,-54,0,919,727,192,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2000,2007,8,-54,-54,0,919,727,192,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2000,2008,9,-54,-54,0,919,727,192,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2000,2009,10,-54,-54,0,919,727,192,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2006,2008,3,90,-18,29,1285,868,417,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2006,2009,4,40,-15,2,1285,868,417,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2006,2010,5,22,-10,-5,1285,868,417,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2008,2,77,-9,43,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2009,3,16,-9,1,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2010,4,-9,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2011,5,-4,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2012,6,-9,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2013,7,-9,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2014,8,-9,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2015,9,-9,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13943,Fitchburg Mut Ins Co,2007,2016,10,-9,-9,0,1301,872,429,1,452.976
+H1,Other Liability - Occurrence,13994,Fremont Mut Ins Co,2002,2002,1,204,-16,43,471,289,182,1,714.778
+H1,Other Liability - Occurrence,13994,Fremont Mut Ins Co,2004,2004,1,31,-1,33,101,55,46,1,714.778
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2007,1,-20,-23,3,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2008,2,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2009,3,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2010,4,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2011,5,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2012,6,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2013,7,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2014,8,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2015,9,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,14451,Marysville Mut Ins Co,2007,2016,10,-22,-22,0,193,13,180,1,11.5
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2006,1,8,-5,2,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2007,2,-4,-5,2,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2008,3,-5,-5,1,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2009,4,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2010,5,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2011,6,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2012,7,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2013,8,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2014,9,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,15326,Utica First Ins Co,2006,2015,10,-5,-5,0,1480,1381,99,1,22.154
+H1,Other Liability - Occurrence,16985,Conemaugh Valley Mut Ins Co,2004,2006,3,2,-1,0,40,23,17,1,25.851
+H1,Other Liability - Occurrence,16985,Conemaugh Valley Mut Ins Co,2004,2007,4,1,-1,0,40,23,17,1,25.851
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2001,2007,7,-17,-17,0,391,301,90,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2001,2008,8,-17,-17,0,391,301,90,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2001,2009,9,-17,-17,0,391,301,90,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2001,2010,10,-17,-17,0,391,301,90,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2007,5,-5,-5,0,413,367,46,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2008,6,-4,-5,0,413,367,46,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2009,7,-4,-5,0,413,367,46,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2010,8,-5,-5,0,413,367,46,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2011,9,-5,-5,0,413,367,46,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2012,10,-5,-5,0,413,367,46,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2007,4,-61,-80,19,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2008,5,-80,-80,0,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2009,6,-80,-80,0,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2010,7,-80,-80,0,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2011,8,-80,-80,0,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2012,9,-80,-80,0,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2013,10,-70,-80,10,430,380,50,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2007,3,19,-18,38,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2008,4,-18,-18,0,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2009,5,-18,-18,0,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2010,6,-18,-18,0,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2011,7,-18,-18,0,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2012,8,-18,-18,0,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2013,9,-11,-18,7,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2014,10,-18,-18,0,501,439,62,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2007,2,40,-20,57,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2008,3,-16,-20,1,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2009,4,-20,-20,0,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2010,5,-20,-20,0,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2011,6,-20,-20,0,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2012,7,-20,-20,0,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2013,8,-12,-20,9,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2014,9,-20,-20,0,443,359,84,1,125.136
+H1,Other Liability - Occurrence,18791,Virginia Mut Ins Co,2006,2015,10,-20,-20,0,443,359,84,1,125.136
+H1,Other Liability - Occurrence,21172,Vanliner Ins Co,1999,2006,8,-16,-16,0,3001,2831,170,1,15033.597
+H1,Other Liability - Occurrence,21172,Vanliner Ins Co,1999,2007,9,-17,-17,0,3001,2831,170,1,15033.597
+H1,Other Liability - Occurrence,21172,Vanliner Ins Co,1999,2008,10,-17,-17,0,3001,2831,170,1,15033.597
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2004,2006,3,2,-1,4,71,74,-3,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2008,2,-29,-20,9,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2009,3,16,-20,1,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2010,4,-15,-17,-3,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2011,5,-12,-16,-1,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2012,6,-4,-15,-10,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2013,7,-10,-14,-1,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2014,8,6,-12,-2,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2015,9,-25,-12,-3,185,143,42,1,0.0
+H1,Other Liability - Occurrence,23876,Mapfre Reins Corp,2007,2016,10,-10,-12,-4,185,143,42,1,0.0
+H1,Other Liability - Occurrence,24660,Cumberland Cas & Surety Co,2000,2006,7,183,-134,6,1656,779,877,1,295.77
+H1,Other Liability - Occurrence,26433,Harco Natl Ins Co,2001,2005,5,-32,-32,0,2910,1382,1528,1,6356.371
+H1,Other Liability - Occurrence,26433,Harco Natl Ins Co,2001,2006,6,-35,-35,0,2910,1382,1528,1,6356.371
+H1,Other Liability - Occurrence,26433,Harco Natl Ins Co,2001,2010,10,-13,-13,0,2910,1382,1528,1,6356.371
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1998,1998,1,29695,-1232,30169,35859,11704,24155,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1999,2003,5,11355,-74689,38160,113491,829,112662,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1999,2004,6,18678,-60617,21520,113491,829,112662,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1999,2005,7,15241,-43610,23966,113491,829,112662,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1999,2006,8,14200,-36379,17672,113491,829,112662,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1999,2007,9,9543,-34634,13288,113491,829,112662,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,1999,2008,10,9205,-28564,22798,113491,829,112662,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,2001,2003,3,46034,-2344,45890,61606,26098,35508,1,270885.25
+H1,Other Liability - Occurrence,33499,Dorinco Rein Co,2001,2004,4,45935,-199,40896,61606,26098,35508,1,270885.25
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2002,2002,1,469,-197,344,913,482,431,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2002,2003,2,985,-58,943,913,482,431,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2003,2003,1,-513,-101,-770,485,241,244,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2004,2006,3,-71,-301,70,438,410,28,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2004,2007,4,218,-18,60,438,410,28,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2006,2,-328,-1074,255,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2007,3,-166,-440,140,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2008,4,-101,-384,100,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2009,5,-241,-372,50,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2010,6,-171,-248,30,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2011,7,-200,-200,0,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2012,8,-198,-198,0,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2013,9,-198,-198,0,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34525,First American Specilaty Ins Co,2005,2014,10,-198,-198,0,1279,537,741,1,2731.578
+H1,Other Liability - Occurrence,34606,Center Mut Ins Co,2005,2009,5,-1,-1,0,299,137,162,1,231.872
+H1,Other Liability - Occurrence,34606,Center Mut Ins Co,2005,2010,6,-1,-1,0,299,137,162,1,231.872
+H1,Other Liability - Occurrence,34606,Center Mut Ins Co,2005,2011,7,-1,-1,0,299,137,162,1,231.872
+H1,Other Liability - Occurrence,34606,Center Mut Ins Co,2005,2012,8,-1,-1,0,299,137,162,1,231.872
+H1,Other Liability - Occurrence,34606,Center Mut Ins Co,2005,2013,9,-1,-1,0,299,137,162,1,231.872
+H1,Other Liability - Occurrence,34606,Center Mut Ins Co,2005,2014,10,-1,-1,0,299,137,162,1,231.872
+H1,Other Liability - Occurrence,35408,Sirius Amer Ins Co,2001,2003,3,17,-3,9,2505,2453,52,1,50013.601
+H1,Other Liability - Occurrence,36013,Lawyers Mut Liab Ins Co Of NC,1998,2000,3,53,-3,45,273,60,213,1,1050.768
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2005,4,112,-648,30,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2006,5,237,-634,18,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2007,6,2367,-612,9,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2008,7,1724,-590,4,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2009,8,1822,-511,3,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2010,9,1670,-511,2,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,36340,Camico Mut Ins Co,2002,2011,10,166,-496,0,347,46,301,1,4887.443
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2002,2,79,-17,42,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2003,3,50,-17,13,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2004,4,37,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2005,5,-17,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2006,6,-17,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2007,7,-17,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2008,8,-17,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2009,9,-17,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2010,10,-17,-17,0,164,106,58,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2002,1,42,-42,84,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2003,2,38,-42,80,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2004,3,8,-42,50,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2005,4,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2006,5,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2007,6,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2008,7,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2009,8,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2010,9,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2011,10,-42,-42,0,104,62,42,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2003,1,-7,-26,19,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2004,2,-1,-26,25,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2005,3,5,-28,33,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2006,4,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2007,5,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2008,6,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2009,7,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2010,8,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2011,9,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2012,10,-28,-28,0,62,41,21,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2005,2,28,-5,33,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2006,3,6,-5,11,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2007,4,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2008,5,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2009,6,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2010,7,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2011,8,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2012,9,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2013,10,-5,-5,0,64,42,22,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2005,1,39,-2,41,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2006,2,18,-2,20,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2007,3,8,-2,10,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2008,4,-2,-2,0,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2009,5,-2,-2,0,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2010,6,-2,-2,0,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2011,7,0,-2,2,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2012,8,-2,-2,0,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2013,9,-2,-2,0,67,32,35,1,128.0
+H1,Other Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2014,10,-2,-2,0,67,32,35,1,128.0
+H1,Other Liability - Occurrence,38300,Samsung Fire & Marine Ins Co Ltd,2002,2010,9,-96,-96,0,4,4,0,1,267.765
+H1,Other Liability - Occurrence,38300,Samsung Fire & Marine Ins Co Ltd,2002,2011,10,-96,-96,0,4,4,0,1,267.765
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2004,1,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2005,2,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2006,3,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2007,4,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2008,5,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2009,6,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2010,7,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2011,8,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2012,9,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,38997,Nissan Fire & Marine Ins Co Us Br,2004,2013,10,-261,-261,0,-579,0,-579,1,95.681
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,1998,1,8,-4,12,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,1999,2,1,-7,8,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2000,3,-15,-19,4,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2001,4,-25,-25,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2002,5,-30,-30,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2003,6,-37,-37,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2004,7,-33,-33,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2005,8,-50,-50,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2006,9,-51,-51,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1998,2007,10,-51,-51,0,5844,5823,21,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,1999,1,-1,-4,2,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2000,2,-14,-15,1,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2001,3,-20,-21,1,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2002,4,-30,-30,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2003,5,-22,-22,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2004,6,-24,-24,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2005,7,-23,-23,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2006,8,-24,-24,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2007,9,-25,-25,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,1999,2008,10,-26,-26,0,5919,5915,4,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2000,1,-4,-9,5,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2001,2,-21,-22,1,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2002,3,-32,-32,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2003,4,-62,-62,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2004,5,-83,-83,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2005,6,-108,-108,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2006,7,-83,-83,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2007,8,-81,-81,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2008,9,-88,-88,0,5940,5929,11,1,7285.898
+H1,Other Liability - Occurrence,42552,Nova Cas Co,2000,2009,10,-88,-88,0,5940,5929,11,1,7285.898
+R1,Products Liability - Occurrence,353,Celina Mut Grp,2003,2003,1,324,-50,114,505,171,334,0,821.002
+R1,Products Liability - Occurrence,353,Celina Mut Grp,2003,2004,2,340,-29,137,505,171,334,0,821.002
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2003,1,23,-12,35,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2004,2,-48,-12,-36,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2005,3,-10,-12,2,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2006,4,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2007,5,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2008,6,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2009,7,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2010,8,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2011,9,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,833,Grange Ins Asn Grp,2003,2012,10,-12,-12,0,13,0,13,0,0.0
+R1,Products Liability - Occurrence,1066,Island Ins Cos Grp,1998,1998,1,354,-19,424,998,28,970,0,6129.858
+R1,Products Liability - Occurrence,7838,RLI Ins Co Grp,2002,2002,1,6497,-13,6225,14606,4156,10450,0,27549.277
+R1,Products Liability - Occurrence,8079,Columbia Ins Grp,1999,2004,6,-751,-812,1,591,86,505,0,7.954
+R1,Products Liability - Occurrence,8079,Columbia Ins Grp,2003,2003,1,11,-1,6,152,-109,261,0,7.954
+R1,Products Liability - Occurrence,9571,American Re Grp,1999,2006,8,-5878,-5879,1,6,1,5,0,34150.505
+R1,Products Liability - Occurrence,9571,American Re Grp,1999,2007,9,-5880,-5879,-1,6,1,5,0,34150.505
+R1,Products Liability - Occurrence,9571,American Re Grp,1999,2008,10,-5876,-5878,2,6,1,5,0,34150.505
+R1,Products Liability - Occurrence,9571,American Re Grp,2003,2009,7,1737,-652,1838,1,0,1,0,34150.505
+R1,Products Liability - Occurrence,9571,American Re Grp,2003,2010,8,1274,-85,34,1,0,1,0,34150.505
+R1,Products Liability - Occurrence,9571,American Re Grp,2003,2011,9,3592,-719,660,1,0,1,0,34150.505
+R1,Products Liability - Occurrence,9571,American Re Grp,2003,2012,10,3865,-353,417,1,0,1,0,34150.505
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2000,2002,3,149,-85,226,2208,1961,247,1,11889.827
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2001,2002,2,462,-8,430,2298,2084,214,1,11889.827
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2001,2003,3,402,-1,28,2298,2084,214,1,11889.827
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2001,2006,6,-1431,-1612,181,2298,2084,214,1,11889.827
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2001,2007,7,-934,-1279,161,2298,2084,214,1,11889.827
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2001,2008,8,-35,-773,39,2298,2084,214,1,11889.827
+R1,Products Liability - Occurrence,11126,Yasuda Fire & Marine Ins Co Of Amer,2001,2009,9,-499,-1033,28,2298,2084,214,1,11889.827
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2007,5,-3,-4,1,41,33,8,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2008,6,-4,-4,0,41,33,8,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2009,7,-4,-4,0,41,33,8,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2010,8,-4,-4,0,41,33,8,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2011,9,-4,-4,0,41,33,8,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2003,2012,10,-4,-4,0,41,33,8,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2007,4,-5,-6,2,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2008,5,-6,-6,0,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2009,6,-6,-6,0,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2010,7,-6,-6,0,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2011,8,-6,-6,0,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2012,9,-6,-6,0,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2004,2013,10,-6,-6,0,65,52,13,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2005,1,-1,-3,2,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2006,2,1,-3,3,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2007,3,-5,-7,2,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2008,4,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2009,5,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2010,6,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2011,7,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2012,8,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2013,9,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,18791,Virginia Mut Ins Co,2005,2014,10,-7,-7,0,83,66,17,1,42.254
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2006,2,23,-2,15,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2007,3,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2008,4,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2009,5,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2010,6,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2011,7,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2012,8,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2013,9,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,32301,Nichido Fire & Marine Ins Co Ltd,2005,2014,10,-18,-18,0,-62,-28,-34,1,235.244
+R1,Products Liability - Occurrence,33499,Dorinco Rein Co,1999,2000,2,66134,-29,65585,76850,0,76850,1,325294.522
+R1,Products Liability - Occurrence,35408,Sirius Amer Ins Co,2007,2008,2,53,-2,56,178,12,166,1,99.909
+R1,Products Liability - Occurrence,35408,Sirius Amer Ins Co,2007,2009,3,18,-2,20,178,12,166,1,99.909
+R1,Products Liability - Occurrence,35408,Sirius Amer Ins Co,2007,2010,4,10,-2,12,178,12,166,1,99.909
+R1,Products Liability - Occurrence,35408,Sirius Amer Ins Co,2007,2011,5,9,-1,10,178,12,166,1,99.909
+R1,Products Liability - Occurrence,35408,Sirius Amer Ins Co,2007,2014,8,-11,-8,0,178,12,166,1,99.909
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2002,2,59,-51,110,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2003,3,-36,-51,15,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2004,4,-50,-51,1,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2005,5,-51,-51,0,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2006,6,-51,-51,0,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2007,7,-51,-51,0,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2008,8,-51,-51,0,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2009,9,-51,-51,0,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2001,2010,10,-51,-51,0,38,22,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2002,1,65,-65,130,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2003,2,-3,-65,62,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2004,3,-6,-65,59,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2005,4,-34,-65,31,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2006,5,-65,-65,0,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2007,6,-65,-65,0,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2008,7,-65,-65,0,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2009,8,-65,-65,0,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2010,9,-65,-65,0,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2002,2011,10,-65,-65,0,31,17,14,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2003,1,133,-72,72,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2004,2,133,-15,32,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2005,3,139,-20,42,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2009,7,-36,-36,0,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2010,8,-36,-36,0,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2011,9,-32,-36,4,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2003,2012,10,-36,-36,0,13,8,5,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2005,2,67,-60,127,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2006,3,-26,-60,31,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2007,4,-28,-53,17,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2008,5,-54,-54,0,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2009,6,-54,-54,0,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2010,7,-54,-54,0,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2011,8,-54,-54,0,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2012,9,-54,-54,0,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2004,2013,10,-54,-54,0,20,11,9,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2005,1,154,-31,185,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2006,2,44,-31,75,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2007,3,-6,-31,25,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2008,4,-25,-31,6,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2009,5,-31,-31,0,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2010,6,-31,-31,0,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2011,7,-31,-31,0,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2012,8,-31,-31,0,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2013,9,-31,-31,0,24,8,16,1,297.111
+R1,Products Liability - Occurrence,37206,Contractors Bonding & Ins Co,2005,2014,10,-31,-31,0,24,8,16,1,297.111
+R1,Products Liability - Occurrence,38733,Alaska Nat Ins Co,2000,2006,7,19,-1,20,184,23,161,1,2130.728
+R1,Products Liability - Occurrence,38733,Alaska Nat Ins Co,2000,2007,8,14,-1,15,184,23,161,1,2130.728

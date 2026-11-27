@@ -1,0 +1,105 @@
+data_year,chapter,domicile_state,company_name,line_of_insurance,premiums_written,losses_paid,taxes_paid,record_id,naic_company_code,active_code
+2019,515.48,CO,21st Century Pacific Insurance Company,Workers Compensation,0.0,26819.0,0.0,2019-23795-Workers Compensation,23795,1434
+2019,515.48,CO,21st Century Pacific Insurance Company,Other Private Passenger Auto Liability,0.0,60494.0,1448.0,2019-23795-Other Private Passenger Auto Liability,23795,1434
+2019,515.48,DE,American Alternative Insurance Corporation,Group Accident and Health (b),0.0,11.0,280.0,2019-19720-Group Accident and Health (b),19720,2806
+2019,515.48,FL,American Bankers Insurance Company of Florida,Commerical Multiple Peril (Liability portion),0.0,657.0,0.0,2019-10111-Commerical Multiple Peril (Liability portion),10111,518
+2019,515.48,FL,American Family Home Insurance Company,Private Passenger Physical Damage,0.0,12606.0,0.0,2019-23450-Private Passenger Physical Damage,23450,1844
+2019,515.48,AZ,American Reliable Insurance Company,Other Private Passenger Auto Liability,0.0,1655.0,0.0,2019-19615-Other Private Passenger Auto Liability,19615,936
+2019,515.48,MI,American Road Insurance Company (The),Inland Marine,0.0,10731.0,0.0,2019-19631-Inland Marine,19631,1253
+2019,515.48,DE,Arrowood Indemnity Company,Workers Compensation,0.0,27184.0,0.0,2019-24678-Workers Compensation,24678,2001
+2019,515.48,DE,Arrowood Indemnity Company,Other Commerical Auto Liability,0.0,369.0,0.0,2019-24678-Other Commerical Auto Liability,24678,2001
+2019,515.48,DE,Arrowood Indemnity Company,Products Liability,0.0,25000.0,0.0,2019-24678-Products Liability,24678,2001
+2019,515.48,DE,Arrowood Indemnity Company,Other Liability - Occcurence,0.0,12500.0,0.0,2019-24678-Other Liability - Occcurence,24678,2001
+2019,515.48,MN,Austin Mutual Insurance Company,Workers Compensation,0.0,1029.0,0.0,2019-13412-Workers Compensation,13412,550
+2019,515.48,PA,Bedivere Insurance Company,Workers Compensation,0.0,392326.0,0.0,2019-21970-Workers Compensation,21970,1111
+2019,515.48,KS,Benchmark Insurance Company,Other Private Passenger Auto Liability,0.0,5000.0,0.0,2019-41394-Other Private Passenger Auto Liability,41394,1735
+2019,515.48,DE,Blackboard Insurance Company,Products Liability,0.0,75534.0,0.0,2019-26611-Products Liability,26611,1733
+2019,515.48,PA,Century Indemnity Company,Workers Compensation,0.0,6709.0,124.0,2019-20710-Workers Compensation,20710,1565
+2019,515.48,PA,Century Indemnity Company,Commerical Multiple Peril (Liability portion),0.0,10164.0,51.0,2019-20710-Commerical Multiple Peril (Liability portion),20710,1565
+2019,515.48,IL,Chicago Insurance Company,Other Liability - Claims Made,0.0,17410.0,0.0,2019-22810-Other Liability - Claims Made,22810,1321
+2019,515.48,TX,Clarendon National Insurance Company,All other Accident and Health (b),0.0,29928.0,19.0,2019-20532-All other Accident and Health (b),20532,574
+2019,515.48,IL,Continental Casualty Company,Medical Professional Liability,0.0,331472.0,42880.0,2019-20443-Medical Professional Liability,20443,600
+2019,515.48,DE,Crum & Forster Indemnity Company,Other Liability - Occcurence,0.0,7762.0,0.0,2019-31348-Other Liability - Occcurence,31348,2944
+2019,515.48,IA,Depositors Insurance Company,Homeowners Multiple Peril,0.0,222452.0,44.0,2019-42587-Homeowners Multiple Peril,42587,2247
+2019,515.48,CT,Discover Property & Casualty Insurance Company,Workers Compensation,0.0,86250.0,0.0,2019-36463-Workers Compensation,36463,2027
+2019,515.48,CT,Discover Property & Casualty Insurance Company,Other Commerical Auto Liability,0.0,572500.0,0.0,2019-36463-Other Commerical Auto Liability,36463,2027
+2019,515.48,IA,EMCASCO Insurance Company,Homeowners Multiple Peril,0.0,240000.0,0.0,2019-21407-Homeowners Multiple Peril,21407,1168
+2019,515.48,WI,Esurance Property and Casualty Insurance Company,Private Passenger Auto No Fault (pip),0.0,11770.0,0.0,2019-30210-Private Passenger Auto No Fault (pip),30210,2974
+2019,515.48,DE,Everest Premier Insurance Company,Other Liability - Occcurence,0.0,14605.0,0.0,2019-16045-Other Liability - Occcurence,16045,3235
+2019,515.48,CT,Farmington Casualty Company,Workers Compensation,0.0,105132.0,0.0,2019-41483-Workers Compensation,41483,2237
+2019,515.48,IL,Fidelity and Deposit Company of Maryland,Other Liability - Claims Made,0.0,214444.0,0.0,2019-39306-Other Liability - Claims Made,39306,2103
+2019,515.48,IA,Fidelity and Guaranty Insurance Company,Workers Compensation,0.0,93696.0,0.0,2019-35386-Workers Compensation,35386,1864
+2019,515.48,WI,"Fidelity and Guaranty Insurance Underwriters, Inc.",Workers Compensation,0.0,19270.0,0.0,2019-25879-Workers Compensation,25879,1302
+2019,515.48,MD,GEICO Casualty Company,Private Passenger Auto No Fault (pip),0.0,55437.0,0.0,2019-41491-Private Passenger Auto No Fault (pip),41491,2240
+2019,515.48,WI,General Casualty Company of Wisconsin,Homeowners Multiple Peril,0.0,5533.0,0.0,2019-24414-Homeowners Multiple Peril,24414,642
+2019,515.48,WI,General Casualty Company of Wisconsin,Other Private Passenger Auto Liability,0.0,11602.0,0.0,2019-24414-Other Private Passenger Auto Liability,24414,642
+2019,515.48,DE,General Reinsurance Corporation,Excess Workers Compensation,0.0,742748.0,50.0,2019-22039-Excess Workers Compensation,22039,1638
+2019,515.48,MD,Government Employees Insurance Company,Private Passenger Auto No Fault (pip),0.0,276.0,0.0,2019-22063-Private Passenger Auto No Fault (pip),22063,1105
+2019,515.48,NE,Great West Casualty Company,Commercial Auto No Fault (pip),0.0,44714.0,0.0,2019-11371-Commercial Auto No Fault (pip),11371,1172
+2019,515.48,DE,Greenwich Insurance Company,Warranty,0.0,441.0,0.0,2019-22322-Warranty,22322,1237
+2019,515.48,IA,Grinnell Mutual Reinsurance Company,Private Passenger Auto No Fault (pip),0.0,24904.0,0.0,2019-14117-Private Passenger Auto No Fault (pip),14117,414
+2019,515.48,IA,Grinnell Select Insurance Company,Private Passenger Auto No Fault (pip),0.0,105123.0,0.0,2019-16144-Private Passenger Auto No Fault (pip),16144,2313
+2019,515.48,IA,GuideOne Mutual Insurance Company,Private Passenger Physical Damage,0.0,232244.0,0.0,2019-15032-Private Passenger Physical Damage,15032,441
+2019,515.48,IA,GuideOne Mutual Insurance Company,Other Private Passenger Auto Liability,0.0,150594.0,0.0,2019-15032-Other Private Passenger Auto Liability,15032,441
+2019,515.48,IA,GuideOne Mutual Insurance Company,Homeowners Multiple Peril,0.0,1315.0,0.0,2019-15032-Homeowners Multiple Peril,15032,441
+2019,515.48,IA,IMT Insurance Company,Commerical Multiple Peril (Liability portion),0.0,39719.0,0.0,2019-14257-Commerical Multiple Peril (Liability portion),14257,196
+2019,515.48,IA,IMT Insurance Company,Commerical Multiple Peril (Non-liability portion),0.0,42999.0,0.0,2019-14257-Commerical Multiple Peril (Non-liability portion),14257,196
+2019,515.48,IL,Illinois National Insurance Company,Warranty,0.0,1770.0,0.0,2019-23817-Warranty,23817,678
+2019,515.48,IN,Indiana Insurance Company,Workers Compensation,0.0,84896.0,1.0,2019-22659-Workers Compensation,22659,2061
+2019,515.48,PA,Insurance Company of North America,Workers Compensation,0.0,22790.0,0.0,2019-22713-Workers Compensation,22713,685
+2019,515.48,PA,Insurance Company of North America,Group Accident and Health (b),0.0,84887.0,110.0,2019-22713-Group Accident and Health (b),22713,685
+2019,515.48,NC,Integon National Insurance Company,Private Passenger Physical Damage,0.0,2662.0,0.0,2019-29742-Private Passenger Physical Damage,29742,2527
+2019,515.48,IL,LM General Insurance Company,Private Passenger Auto No Fault (pip),0.0,7140.0,186.0,2019-36447-Private Passenger Auto No Fault (pip),36447,2164
+2019,515.48,PA,Lamorak Insurance Company,Commerical Multiple Peril (Liability portion),0.0,794467.0,0.0,2019-20621-Commerical Multiple Peril (Liability portion),20621,1642
+2019,515.48,PA,Lamorak Insurance Company,Products Liability,0.0,1879066.0,0.0,2019-20621-Products Liability,20621,1642
+2019,515.48,PA,Lamorak Insurance Company,Workers Compensation,0.0,26.0,0.0,2019-20621-Workers Compensation,20621,1642
+2019,515.48,PA,Lamorak Insurance Company,Other Liability - Occcurence,0.0,529644.0,0.0,2019-20621-Other Liability - Occcurence,20621,1642
+2019,515.48,WI,Liberty Mutual Fire Insurance Company,Burglary and Theft,0.0,14439.0,0.0,2019-23035-Burglary and Theft,23035,695
+2019,515.48,MI,Michigan Millers Mutual Insurance Company,Workers Compensation,0.0,35789.0,0.0,2019-14508-Workers Compensation,14508,727
+2019,515.48,NH,Midwestern Indemnity Company (The),Workers Compensation,0.0,153060.0,883.0,2019-23515-Workers Compensation,23515,1773
+2019,515.48,NY,Mitsui Sumitomo Insurance Company of America,Boiler and Machinery,0.0,24793.0,0.0,2019-20362-Boiler and Machinery,20362,2904
+2019,515.48,NC,National Farmers Union Property and Casualty Company,Private Passenger Physical Damage,0.0,802.0,0.0,2019-16217-Private Passenger Physical Damage,16217,2375
+2019,515.48,PA,National Union Fire Insurance Company of Pittsburgh Pa.,Medical Professional Liability,0.0,397485.0,-5.0,2019-19445-Medical Professional Liability,19445,752
+2019,515.48,NH,North American Specialty Insurance Company,Workers Compensation,0.0,8005.0,0.0,2019-29874-Workers Compensation,29874,1777
+2019,515.48,NJ,North River Insurance Company (The),Group Accident and Health (b),0.0,33.0,0.0,2019-21105-Group Accident and Health (b),21105,1701
+2019,515.48,OH,Owners Insurance Company,Private Passenger Auto No Fault (pip),0.0,19794.0,0.0,2019-32700-Private Passenger Auto No Fault (pip),32700,2109
+2019,515.48,IA,Plaza Insurance Company,Commerical Multiple Peril (Non-liability portion),0.0,174617.0,1.0,2019-30945-Commerical Multiple Peril (Non-liability portion),30945,1926
+2019,515.48,WI,Progressive Classic Insurance Company,Commercial Auto Physical Damage,0.0,21670.0,0.0,2019-42994-Commercial Auto Physical Damage,42994,2356
+2019,515.48,OH,Progressive Direct Insurance Company,Private Passenger Physical Damage,0.0,20.0,0.0,2019-16322-Private Passenger Physical Damage,16322,2761
+2019,515.48,WI,Progressive Northern Insurance Company,Private Passenger Auto No Fault (pip),0.0,241364.0,0.0,2019-38628-Private Passenger Auto No Fault (pip),38628,2364
+2019,515.48,WI,Progressive Universal Insurance Company,Private Passenger Auto No Fault (pip),0.0,337137.0,0.0,2019-21727-Private Passenger Auto No Fault (pip),21727,2970
+2019,515.48,NH,SAFECO Insurance Company of America,Private Passenger Auto No Fault (pip),0.0,2031.0,60.0,2019-24740-Private Passenger Auto No Fault (pip),24740,910
+2019,515.48,IN,SAFECO Insurance Company of Indiana,Private Passenger Physical Damage,0.0,407.0,0.0,2019-11215-Private Passenger Physical Damage,11215,1696
+2019,515.48,WI,SECURA Supreme Insurance Company,Private Passenger Auto No Fault (pip),0.0,10433.0,0.0,2019-10239-Private Passenger Auto No Fault (pip),10239,2849
+2019,515.48,CT,SPARTA Insurance Company,Workers Compensation,0.0,49106.0,-2693.0,2019-20613-Workers Compensation,20613,525
+2019,515.48,DE,Security National Insurance Company,Products Liability,0.0,20691.0,0.0,2019-19879-Products Liability,19879,2712
+2019,515.48,CT,St. Paul Fire and Marine Insurance Company,Workers Compensation,0.0,812876.0,0.0,2019-24767-Workers Compensation,24767,723
+2019,515.48,FL,Star Casualty Insurance Company,Other Private Passenger Auto Liability,0.0,42500.0,0.0,2019-32387-Other Private Passenger Auto Liability,32387,3204
+2019,515.48,OH,State Automobile Mutual Insurance Company,Private Passenger Physical Damage,0.0,433.0,0.0,2019-25135-Private Passenger Physical Damage,25135,2634
+2019,515.48,IL,State Farm Fire and Casualty Company,Private Passenger Auto No Fault (pip),0.0,47292.0,0.0,2019-25143-Private Passenger Auto No Fault (pip),25143,849
+2019,515.48,IL,State Farm General Insurance Company,Workers Compensation,0.0,9006.0,0.0,2019-25151-Workers Compensation,25151,1325
+2019,515.48,IL,State Farm Mutual Automobile Insurance Company,Private Passenger Auto No Fault (pip),0.0,180613.0,0.0,2019-25178-Private Passenger Auto No Fault (pip),25178,850
+2019,515.48,IL,State Farm Mutual Automobile Insurance Company,Commercial Auto No Fault (pip),0.0,6442.0,0.0,2019-25178-Commercial Auto No Fault (pip),25178,850
+2019,515.48,PA,Stonington Insurance Company,Commerical Multiple Peril (Liability portion),0.0,50000.0,0.0,2019-10340-Commerical Multiple Peril (Liability portion),10340,2449
+2019,515.48,CA,TIG Insurance Company,Workers Compensation,0.0,3855.0,202.0,2019-25534-Workers Compensation,25534,791
+2019,515.48,CT,Travelers Casualty Insurance Company of America,Workers Compensation,0.0,133137.0,0.0,2019-19046-Workers Compensation,19046,1763
+2019,515.48,CT,Travelers Casualty and Surety Company,Products Liability,0.0,1270.0,0.0,2019-19038-Products Liability,19038,502
+2019,515.48,CT,Travelers Casualty and Surety Company,Excess Workers Compensation,0.0,49650.0,0.0,2019-19038-Excess Workers Compensation,19038,502
+2019,515.48,TX,USAA Casualty Insurance Company,Private Passenger Auto No Fault (pip),0.0,11172.0,0.0,2019-25968-Private Passenger Auto No Fault (pip),25968,2625
+2019,515.48,TX,USAA General Indemnity Company,Private Passenger Auto No Fault (pip),0.0,17992.0,0.0,2019-18600-Private Passenger Auto No Fault (pip),18600,1790
+2019,515.48,IA,Union Insurance Company of Providence,Homeowners Multiple Peril,0.0,25408.0,0.0,2019-21423-Homeowners Multiple Peril,21423,1509
+2019,520,TX,"United Services Automobile Association, USAA Reciprocal, Attorney-in-fact",Private Passenger Auto No Fault (pip),0.0,12426.0,0.0,2019-25941-Private Passenger Auto No Fault (pip),25941,1258
+2019,515.48,CT,United States Fidelity and Guaranty Company,Workers Compensation,0.0,51247.0,0.0,2019-25887-Workers Compensation,25887,885
+2019,515.48,CT,United States Fidelity and Guaranty Company,Commerical Multiple Peril (Liability portion),0.0,197618.0,0.0,2019-25887-Commerical Multiple Peril (Liability portion),25887,885
+2019,515.48,CT,United States Fidelity and Guaranty Company,Excess Workers Compensation,0.0,92808.0,0.0,2019-25887-Excess Workers Compensation,25887,885
+2019,515.48,IL,Universal Underwriters Insurance Company,Workers Compensation,0.0,67536.0,0.0,2019-41181-Workers Compensation,41181,2189
+2019,515.48,IL,Universal Underwriters of Texas Insurance Company,Other Commerical Auto Liability,0.0,71500.0,0.0,2019-40843-Other Commerical Auto Liability,40843,2802
+2019,515.48,PA,Valley Forge Insurance Company,Other Private Passenger Auto Liability,0.0,20800.0,0.0,2019-20508-Other Private Passenger Auto Liability,20508,517
+2019,515.48,OH,Victoria Fire & Casualty Company,Private Passenger Physical Damage,0.0,1016.0,0.0,2019-42889-Private Passenger Physical Damage,42889,2457
+2019,515.48,OH,Victoria Fire & Casualty Company,Other Private Passenger Auto Liability,0.0,2000.0,1476.0,2019-42889-Other Private Passenger Auto Liability,42889,2457
+2019,515.48,IL,"Virginia Surety Company, Inc.",Workers Compensation,0.0,170305.0,0.0,2019-40827-Workers Compensation,40827,2162
+2019,515.48,WI,Wausau Business Insurance Company,Workers Compensation,0.0,29672.0,-347.0,2019-26069-Workers Compensation,26069,2573
+2019,515.48,MO,Westport Insurance Corporation,Workers Compensation,0.0,55204.0,0.0,2019-39845-Workers Compensation,39845,2085
+2019,515.48,MO,Westport Insurance Corporation,Multiple Peril Crop,0.0,29864.0,0.0,2019-39845-Multiple Peril Crop,39845,2085
+2019,515.48,DE,XL Specialty Insurance Company,Excess Workers Compensation,0.0,2599.0,0.0,2019-37885-Excess Workers Compensation,37885,2664
+2019,515.48,NY,Zurich American Insurance Company,Medical Professional Liability,0.0,3000.0,168.0,2019-16535-Medical Professional Liability,16535,2816

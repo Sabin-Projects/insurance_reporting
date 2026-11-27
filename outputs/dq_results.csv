@@ -1,0 +1,18 @@
+rule_id,source,severity,description,rows_checked,rows_failed,status
+SP-01,Schedule P,Low,"Net earned premium should equal direct minus ceded, exactly.",71650,3510,FAIL
+SP-02,Schedule P,High,"Net premium = direct - ceded, allowing 1 for rounding ($ thousands).",71650,0,PASS
+SP-03,Schedule P,High,Cumulative paid losses should never be negative.,71650,724,FAIL
+SP-04,Schedule P,Medium,Cumulative paid should not go down from one development year to the next.,71650,2127,FAIL
+SP-05,Schedule P,High,Paid losses should not be larger than incurred losses.,71650,840,FAIL
+SP-06,Schedule P,Medium,Each company and line should have 10 accident years x 10 lags = 100 rows.,71650,107,FAIL
+IA-01,Iowa,Medium,Premiums written should not be negative.,39861,124,FAIL
+IA-02,Iowa,Medium,Losses paid on a line with zero premium written should be reviewed.,39861,104,FAIL
+IA-03,Iowa,Low,Line names should be spelled consistently (known typos in the source).,39861,3708,FAIL
+IA-04,Iowa,Low,Every company should have the Iowa Code chapter it is licensed under.,39861,86,FAIL
+PC-01,Policies,High,Each policy ID should appear only once.,678013,0,PASS
+PC-02,Policies,Medium,Exposure must be above 0 and at most 1 year.,678013,1224,FAIL
+PC-03,Policies,Medium,Drivers must be 18 to 100 years old.,678013,0,PASS
+PC-04,Claims,High,Every claim should belong to a policy in the underwriting system.,26639,195,FAIL
+PC-05,Policies,High,Policies with claim_count > 0 should have claim records.,678013,9116,FAIL
+PC-06,Policies,Medium,"Where both exist, claim_count should equal the number of claim records.",678013,1,FAIL
+PC-07,Claims,Medium,Claim amounts should be greater than zero.,26639,0,PASS

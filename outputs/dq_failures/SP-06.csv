@@ -1,0 +1,108 @@
+lob_code,lob_name,group_code,group_name,rows
+B,Private Passenger Auto Liability,388,Federal Ins Co Grp,90
+B,Private Passenger Auto Liability,692,Wawanesa Ins Grp,40
+B,Private Passenger Auto Liability,715,West Bend Mut Ins Grp,30
+B,Private Passenger Auto Liability,1252,Penn Miller Grp,40
+B,Private Passenger Auto Liability,1279,American Modern Ins Grp Inc,20
+B,Private Passenger Auto Liability,3492,Florists Mut Ins Grp,80
+B,Private Passenger Auto Liability,7676,Pennsylvania Mfg Asn Ins Co,30
+B,Private Passenger Auto Liability,8559,Millers Mut Ins Assoc,70
+B,Private Passenger Auto Liability,9466,Lumber Ins Cos,30
+B,Private Passenger Auto Liability,10049,All Nation Ins Co,40
+B,Private Passenger Auto Liability,11037,Eveready Ins Co,70
+B,Private Passenger Auto Liability,15393,Wisconsin American Mut Ins Co,40
+B,Private Passenger Auto Liability,18538,Bancinsure Inc,70
+B,Private Passenger Auto Liability,20800,Southland Lloyds Ins Co,70
+B,Private Passenger Auto Liability,27980,Federated Natl Ins Co,40
+B,Private Passenger Auto Liability,32743,Alliance Mut Ins Co,70
+B,Private Passenger Auto Liability,33545,Seminole Cas Ins Co,40
+B,Private Passenger Auto Liability,37486,National Automotive Ins,90
+B,Private Passenger Auto Liability,40223,Baltica-Skandinavia Rein Co Of Amer,60
+B,Private Passenger Auto Liability,40720,Interstate Auto Ins Co Inc,50
+B,Private Passenger Auto Liability,41700,Southern Group Ind Inc,20
+B,Private Passenger Auto Liability,43354,San Antonio Reins Co,60
+C,Commercial Auto Liability,388,Federal Ins Co Grp,90
+C,Commercial Auto Liability,715,West Bend Mut Ins Grp,30
+C,Commercial Auto Liability,1279,American Modern Ins Grp Inc,20
+C,Commercial Auto Liability,3492,Florists Mut Ins Grp,80
+C,Commercial Auto Liability,8281,Amguard Norguard & Eastguard Grp,50
+C,Commercial Auto Liability,8559,Millers Mut Ins Assoc,70
+C,Commercial Auto Liability,9466,Lumber Ins Cos,30
+C,Commercial Auto Liability,10561,Catholic Relief Ins Co Of Amer,20
+C,Commercial Auto Liability,11037,Eveready Ins Co,70
+C,Commercial Auto Liability,14320,Distributors Ins Co,40
+C,Commercial Auto Liability,16411,Cooperative Mut Ins Co,40
+C,Commercial Auto Liability,18538,Bancinsure Inc,70
+C,Commercial Auto Liability,27955,Commercial Risk Re-Ins Co,20
+C,Commercial Auto Liability,27980,Federated Natl Ins Co,40
+C,Commercial Auto Liability,32743,Alliance Mut Ins Co,70
+C,Commercial Auto Liability,40800,American Sterling Ins Co,40
+C,Commercial Auto Liability,41700,Southern Group Ind Inc,20
+C,Commercial Auto Liability,43265,Gramercy Ins Co,50
+C,Commercial Auto Liability,43354,San Antonio Reins Co,60
+C,Commercial Auto Liability,44091,Dowa Fire & Marine Ins Co Ltd Us Br,30
+D,Workers' Compensation,388,Federal Ins Co Grp,90
+D,Workers' Compensation,711,Patrons Grp,10
+D,Workers' Compensation,715,West Bend Mut Ins Grp,30
+D,Workers' Compensation,1252,Penn Miller Grp,40
+D,Workers' Compensation,7714,Keystone Ins Grp,40
+D,Workers' Compensation,8559,Millers Mut Ins Assoc,70
+D,Workers' Compensation,9466,Lumber Ins Cos,30
+D,Workers' Compensation,10561,Catholic Relief Ins Co Of Amer,20
+D,Workers' Compensation,10874,GA Resaurant Mut Captive Ins Co,30
+D,Workers' Compensation,14320,Distributors Ins Co,40
+D,Workers' Compensation,15393,Wisconsin American Mut Ins Co,40
+D,Workers' Compensation,18538,Bancinsure Inc,70
+D,Workers' Compensation,23108,Lumbermens Underwriting Alliance,80
+D,Workers' Compensation,24619,Transportation Cas Ins Co,30
+D,Workers' Compensation,27905,NLC Mut Ins Co,80
+D,Workers' Compensation,27955,Commercial Risk Re-Ins Co,20
+D,Workers' Compensation,30589,Capital City Ins Co Inc,30
+D,Workers' Compensation,31658,Zurich Ins (Guam) Inc,90
+D,Workers' Compensation,32005,Employers Security Ins Co,60
+D,Workers' Compensation,36790,Springfield Ins Co Inc,90
+D,Workers' Compensation,44091,Dowa Fire & Marine Ins Co Ltd Us Br,30
+D,Workers' Compensation,44300,Tower Ins Co Of NY,80
+F2,Medical Malpractice - Claims Made,669,Scpie Indemnity Co,10
+F2,Medical Malpractice - Claims Made,43770,Clinic Mut Ins Co RRG,80
+H1,Other Liability - Occurrence,669,Scpie Indemnity Co,10
+H1,Other Liability - Occurrence,715,West Bend Mut Ins Grp,30
+H1,Other Liability - Occurrence,1252,Penn Miller Grp,40
+H1,Other Liability - Occurrence,1279,American Modern Ins Grp Inc,20
+H1,Other Liability - Occurrence,3492,Florists Mut Ins Grp,80
+H1,Other Liability - Occurrence,8281,Amguard Norguard & Eastguard Grp,50
+H1,Other Liability - Occurrence,9466,Lumber Ins Cos,30
+H1,Other Liability - Occurrence,10163,General Eastern Ski Ins RRG Inc,70
+H1,Other Liability - Occurrence,10561,Catholic Relief Ins Co Of Amer,20
+H1,Other Liability - Occurrence,14320,Distributors Ins Co,40
+H1,Other Liability - Occurrence,14605,Mississippi Farm Bureau Mut Ins Co,60
+H1,Other Liability - Occurrence,15393,Wisconsin American Mut Ins Co,40
+H1,Other Liability - Occurrence,17124,Farmers Mut Ins Co,90
+H1,Other Liability - Occurrence,17256,Hannahstown Mut Ins Co,90
+H1,Other Liability - Occurrence,17574,Patrons Mut Fire Assoc Of Nw PA,20
+H1,Other Liability - Occurrence,18538,Bancinsure Inc,70
+H1,Other Liability - Occurrence,19160,Old Lyme Ins Co Of RI Inc,20
+H1,Other Liability - Occurrence,24660,Cumberland Cas & Surety Co,30
+H1,Other Liability - Occurrence,27955,Commercial Risk Re-Ins Co,20
+H1,Other Liability - Occurrence,30139,Mlba Limited Liability Pool,60
+H1,Other Liability - Occurrence,31280,North American Ind Co,40
+H1,Other Liability - Occurrence,32743,Alliance Mut Ins Co,70
+H1,Other Liability - Occurrence,35360,Gibraltar Natl Ins Co,20
+H1,Other Liability - Occurrence,37052,Regis Ins Co,80
+H1,Other Liability - Occurrence,40223,Baltica-Skandinavia Rein Co Of Amer,60
+H1,Other Liability - Occurrence,40800,American Sterling Ins Co,40
+H1,Other Liability - Occurrence,43265,Gramercy Ins Co,50
+H1,Other Liability - Occurrence,43354,San Antonio Reins Co,60
+H1,Other Liability - Occurrence,44091,Dowa Fire & Marine Ins Co Ltd Us Br,30
+H1,Other Liability - Occurrence,44300,Tower Ins Co Of NY,80
+R1,Products Liability - Occurrence,248,Atlantic Mut Grp,30
+R1,Products Liability - Occurrence,388,Federal Ins Co Grp,90
+R1,Products Liability - Occurrence,715,West Bend Mut Ins Grp,30
+R1,Products Liability - Occurrence,1252,Penn Miller Grp,40
+R1,Products Liability - Occurrence,1279,American Modern Ins Grp Inc,20
+R1,Products Liability - Occurrence,8281,Amguard Norguard & Eastguard Grp,50
+R1,Products Liability - Occurrence,8559,Millers Mut Ins Assoc,70
+R1,Products Liability - Occurrence,9466,Lumber Ins Cos,30
+R1,Products Liability - Occurrence,11487,Imperial Cas & Ind Co,30
+R1,Products Liability - Occurrence,11568,Constitutional Cas Co,30
+R1,Products Liability - Occurrence,44091,Dowa Fire & Marine Ins Co Ltd Us Br,30

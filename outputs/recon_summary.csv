@@ -1,0 +1,8 @@
+recon,item,count,amount,type,action
+R1 Premium,Cutoff: booked in following month,20,2245.28,Timing,Reverses next month; fix posting date
+R2 Losses,Timing: reported in a later month,17415,41310354.56,Timing,Expected; accrue via IBNR
+R2 Losses,Duplicate in GL,2,5345.44,Error,Reverse the duplicate posting
+R2 Losses,Missing from GL,3,-11531.07,Error,Post the missing claims
+R2 Losses,Amount difference,2,12384.09,Error,Correct the keyed amount
+R3 UW vs Claims,Orphan claims (PC-04),195,788714.18,Data,Locate missing policy records
+R3 UW vs Claims,"Missing claim records (PC-05, estimated)",9657,22003825.84,Data,"Request claims extract for policy IDs <= 1,000,000"
